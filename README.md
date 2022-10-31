@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhiaaaw
 - 👀 I’m interested in learning Ethical Hacking
-- 🌱 I’m currently learning ... Java programming language
+- 🌱 I’m currently learning Java and Networking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
