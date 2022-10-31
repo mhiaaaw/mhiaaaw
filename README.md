@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mhiaaaw
 - 👀 I’m interested in learning Ethical Hacking
 - 🌱 I’m currently learning Java and Networking
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 spaghettimitbol@gmail.com
 
 <!---
 mhiaaaw/mhiaaaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
