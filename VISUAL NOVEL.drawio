@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T23:48:27.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="pjMov3LkRzCc2eVh6laJ" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T23:58:00.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="UxpufkidrSSPQxQuQ-hT" version="24.4.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1523" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1835" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -309,6 +309,9 @@
         <mxCell id="uCVlb8cVJ9TNwtC1Tqcg-15" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;As a player how&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;will you respond in this&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;situation?&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-45" y="3177" width="110" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="kneAseGpNHwroSivyvH5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uCVlb8cVJ9TNwtC1Tqcg-16" target="kneAseGpNHwroSivyvH5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uCVlb8cVJ9TNwtC1Tqcg-16" value="&lt;span&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-9dbe816c-7fff-2175-aaa6-e446ceecff5d&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;If you use persuasion, the players will hypnotize Gar to make her believe. With calm and soothing words, they weave a compelling narrative, gradually drawing Gar into a trance-like state. Their voices, rhythmic and convincing, bypass her defenses, making her more susceptible to their influence. Soon, Gar is utterly entranced, her mind molded by their persuasive charm, believing whatever they want her to accept.&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-250" y="3367" width="240" height="123" as="geometry" />
         </mxCell>
@@ -318,10 +321,11 @@
         <mxCell id="uCVlb8cVJ9TNwtC1Tqcg-17" value="&lt;span&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-9dbe816c-7fff-2175-aaa6-e446ceecff5d&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;If you use charisma, they will get Gar&#39;s attention, and each of them will go and get their drinks. With engaging smiles and confident gestures, they effortlessly capture Gar&#39;s interest. Gar&#39;s focus is entirely on them, drawn in by their charismatic presence. Seizing the moment, they smoothly make their way to the bar, grabbing their drinks with ease, their charm leaving Gar momentarily captivated and distracted.&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10" y="3367" width="240" height="123" as="geometry" />
         </mxCell>
-        <mxCell id="kneAseGpNHwroSivyvH5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uCVlb8cVJ9TNwtC1Tqcg-19" target="uCVlb8cVJ9TNwtC1Tqcg-22">
+        <mxCell id="kneAseGpNHwroSivyvH5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="uCVlb8cVJ9TNwtC1Tqcg-22">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="4000" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="170" y="3725" />
+              <mxPoint x="120" y="4095" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -332,13 +336,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uCVlb8cVJ9TNwtC1Tqcg-22" value="&lt;span&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-11b0bfed-7fff-7595-1d7a-41605fff211b&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; color: rgb(30, 41, 59); background-color: rgb(255, 255, 255); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;One day while the night looked so boring and the cold wind kept blowing in Urbano. A mysterious man had been following a group of people or thieves&#39; exploits for quite some time and had grown quite fond of them. &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; color: rgb(30, 41, 59); background-color: rgb(255, 255, 255); font-weight: 700; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;But this person knew that their lifestyle of crime would one day catch up to them, and he had a plan for when that day came. &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; color: rgb(30, 41, 59); background-color: rgb(255, 255, 255); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;So the mysterious man decided to reach out to those men since he knew that. &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;The three to four players kept being attracted to the place of Alegria, until they wanted to do something to excite them? The man suddenly came up from nowhere, and gave them some ideas. &lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-110" y="3650" width="240" height="150" as="geometry" />
+          <mxGeometry x="-160" y="4020" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="uCVlb8cVJ9TNwtC1Tqcg-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uCVlb8cVJ9TNwtC1Tqcg-32" target="uCVlb8cVJ9TNwtC1Tqcg-33" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-130" y="4010" as="targetPoint" />
+            <mxPoint x="-180" y="4380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-130" y="3895" />
+              <mxPoint x="-180" y="4265" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -350,7 +354,7 @@
         <mxCell id="uCVlb8cVJ9TNwtC1Tqcg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uCVlb8cVJ9TNwtC1Tqcg-32" target="uCVlb8cVJ9TNwtC1Tqcg-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130" y="3895" />
+              <mxPoint x="80" y="4265" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -360,36 +364,36 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uCVlb8cVJ9TNwtC1Tqcg-32" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;As a player how&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;will you respond in this&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;situation?&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-45" y="3840" width="110" height="110" as="geometry" />
+          <mxGeometry x="-95" y="4210" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="uCVlb8cVJ9TNwtC1Tqcg-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uCVlb8cVJ9TNwtC1Tqcg-33" target="uCVlb8cVJ9TNwtC1Tqcg-37" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-129.99999999999977" y="4150" as="targetPoint" />
+            <mxPoint x="-179.99999999999977" y="4520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uCVlb8cVJ9TNwtC1Tqcg-33" value="&lt;span&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-5cf182dc-7fff-10a6-0df7-bcb75c96a3a4&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-weight: 700; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;First Idea: &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;I’ve heard that there’s a newly opened bar near the city of Urbano. (Another Combat System will appear here)&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-250" y="4030" width="240" height="80" as="geometry" />
+          <mxGeometry x="-300" y="4400" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uCVlb8cVJ9TNwtC1Tqcg-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uCVlb8cVJ9TNwtC1Tqcg-34" target="uCVlb8cVJ9TNwtC1Tqcg-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uCVlb8cVJ9TNwtC1Tqcg-34" value="&lt;span&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-fb568c26-7fff-5086-55bc-ec146b29b86d&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-weight: 700; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Second Idea: &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Wanna have fun in Distrito de Entretenimiento (entertainment district) where the most famous casino is located? Where can you find money and chips are everywhere?&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="10" y="4030" width="240" height="80" as="geometry" />
+          <mxGeometry x="-40" y="4400" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uCVlb8cVJ9TNwtC1Tqcg-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uCVlb8cVJ9TNwtC1Tqcg-37" target="uCVlb8cVJ9TNwtC1Tqcg-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uCVlb8cVJ9TNwtC1Tqcg-37" value="&lt;span&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Intrigued by the rumor, the players decide to visit the newly opened bar near the city of Urbano. As they step inside, the vibrant atmosphere and the buzz of conversations around them draw them in. They order drinks and start to relax, but their peace is short-lived. A sudden announcement calls for participants in a high-stakes combat tournament, unveiling an unfamiliar combat system they must navigate. Despite their best efforts, the players struggle to adapt to the new rules and strategies. In the final round, they face formidable opponents and, despite a valiant effort, suffer a crushing defeat. The loss is felt deeply as they leave the bar, not only having failed to secure victory but also with the realization that they must sharpen their skills and return stronger for the challenges that lie ahead in Urbano.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-250" y="4160" width="240" height="200" as="geometry" />
+          <mxGeometry x="-300" y="4530" width="240" height="200" as="geometry" />
         </mxCell>
         <mxCell id="uCVlb8cVJ9TNwtC1Tqcg-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uCVlb8cVJ9TNwtC1Tqcg-39" target="uCVlb8cVJ9TNwtC1Tqcg-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uCVlb8cVJ9TNwtC1Tqcg-39" value="&lt;span&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Excited by the allure of Distrito de Entretenimiento, the players head to the renowned casino, their minds set on winning big. The dazzling lights and the clinking of chips fuel their excitement as they step inside. They split up, each trying their luck at different games—poker, roulette, and blackjack. Using a mix of strategy, charm, and sheer luck, they start accumulating winnings, the chips piling up before them. The night progresses with a series of thrilling wins, each victory boosting their confidence. By the end of the evening, they stand at the cashier&#39;s counter, exchanging their chips for a hefty sum of money. Elated and triumphant, they leave the casino, their pockets full and spirits high, knowing they have mastered the games and conquered the famous casino of Distrito de Entretenimiento.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="10" y="4160" width="240" height="200" as="geometry" />
+          <mxGeometry x="-40" y="4530" width="240" height="200" as="geometry" />
         </mxCell>
         <mxCell id="uCVlb8cVJ9TNwtC1Tqcg-44" value="&lt;b&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;END&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-30" y="4420" width="60" height="40" as="geometry" />
+          <mxGeometry x="-80" y="4790" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kneAseGpNHwroSivyvH5-3" value="&lt;span&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-1e62a941-7fff-1e7c-afc4-4033c24962b3&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;That’s why Gar pointed her gun at Vlad, not until Isabella showed her gun. A shot of a gun surrounded the whole shop, Isabella shot the CCTV cameras. Until Gar also shoots her gun. &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-weight: 700; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;The player must kill Gar, in order to make their heist plan longer.&amp;nbsp; &lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-250" y="3540" width="240" height="90" as="geometry" />
