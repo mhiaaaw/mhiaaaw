@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T00:02:01.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="wg_jAfhTbH99Pu7JC0YR" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T00:04:55.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="5hmfzp5f5SczF1M3iDbx" version="24.4.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1389" dy="253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1801" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -322,10 +322,15 @@
           <mxGeometry x="10" y="3367" width="240" height="123" as="geometry" />
         </mxCell>
         <mxCell id="kneAseGpNHwroSivyvH5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uCVlb8cVJ9TNwtC1Tqcg-19" target="kneAseGpNHwroSivyvH5-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="3690" />
+              <mxPoint x="-5" y="3690" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="uCVlb8cVJ9TNwtC1Tqcg-19" value="&lt;span&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-1e62a941-7fff-1e7c-afc4-4033c24962b3&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;That’s why Gar pointed her gun at Vlad, not until Isabella showed her gun. A shot of a gun surrounded the whole shop, Isabella shot the CCTV cameras. Until Gar also shoots her gun. &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-weight: 700; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;The player must kill Gar, in order to make their heist plan longer.&amp;nbsp; &lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="10" y="3540" width="240" height="90" as="geometry" />
+        <mxCell id="uCVlb8cVJ9TNwtC1Tqcg-19" value="&lt;span&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;That&#39;s why Gar pointed her gun at Vlad, her eyes filled with steely resolve. The tension in the shop was palpable, and for a moment, time seemed to stand still. Isabella, always quick on her feet, drew her own weapon in a fluid motion. A single, sharp shot echoed through the room, shattering the CCTV cameras in a spray of sparks and glass. Gar, startled by the sudden action, fired her gun in a reflexive response, adding to the cacophony. But the players, anticipating this very scenario, sprang into action with practiced precision.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="10" y="3540" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="uCVlb8cVJ9TNwtC1Tqcg-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uCVlb8cVJ9TNwtC1Tqcg-22" target="uCVlb8cVJ9TNwtC1Tqcg-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -394,7 +399,11 @@
           <mxGeometry x="-70" y="5010" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kneAseGpNHwroSivyvH5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kneAseGpNHwroSivyvH5-3" target="kneAseGpNHwroSivyvH5-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-130" y="3680" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kneAseGpNHwroSivyvH5-3" value="&lt;span&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-1e62a941-7fff-1e7c-afc4-4033c24962b3&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;That’s why Gar pointed her gun at Vlad, not until Isabella showed her gun. A shot of a gun surrounded the whole shop, Isabella shot the CCTV cameras. Until Gar also shoots her gun. &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-weight: 700; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;The player must kill Gar, in order to make their heist plan longer.&amp;nbsp; &lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-250" y="3540" width="240" height="90" as="geometry" />
@@ -432,17 +441,11 @@
         <mxCell id="kneAseGpNHwroSivyvH5-7" value="&lt;span&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;In the ensuing chaos, the players tried to eliminate Gar to extend their heist plan. However, their attempt was met with fierce resistance. Gar, fueled by adrenaline and desperation, fought back with a ferocity they hadn&#39;t anticipated. Shots were exchanged in a rapid and chaotic flurry, but the players&#39; coordination faltered.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-270" y="3840" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="kneAseGpNHwroSivyvH5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kneAseGpNHwroSivyvH5-8" target="kneAseGpNHwroSivyvH5-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kneAseGpNHwroSivyvH5-8" value="&lt;span&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-1e62a941-7fff-1e7c-afc4-4033c24962b3&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;That’s why Gar pointed her gun at Vlad, not until Isabella showed her gun. A shot of a gun surrounded the whole shop, Isabella shot the CCTV cameras. Until Gar also shoots her gun. &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-weight: 700; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;The player must kill Gar, in order to make their heist plan longer.&amp;nbsp; &lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="3840" width="240" height="90" as="geometry" />
+        <mxCell id="kneAseGpNHwroSivyvH5-8" value="&lt;span&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Moving swiftly and decisively, they flanked Gar from both sides, using the chaos to their advantage. Their coordinated efforts paid off as they managed to disarm Gar, bringing her to the ground and securing her weapon. With Gar neutralized, the immediate threat was eliminated, and their heist plan was back on track. The players shared a moment of triumph, knowing they had successfully overcome a major hurdle. With Gar out of the picture, they could proceed with their mission, their path now clear and their confidence bolstered for the challenges ahead.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="3840" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="kneAseGpNHwroSivyvH5-16" value="&lt;span&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Ultimately, Gar managed to escape, leaving the players with a sense of bitter defeat. The shop was in disarray, the heist plan in ruins, and their chance for a smooth getaway slipping through their fingers. They knew that without eliminating Gar, their mission had become significantly more complicated and dangerous. As they regrouped, they realized they would have to reassess their strategy and brace themselves for the challenges ahead.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-270" y="3950" width="240" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="kneAseGpNHwroSivyvH5-17" value="&lt;span&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Ultimately, Gar managed to escape, leaving the players with a sense of bitter defeat. The shop was in disarray, the heist plan in ruins, and their chance for a smooth getaway slipping through their fingers. They knew that without eliminating Gar, their mission had become significantly more complicated and dangerous. As they regrouped, they realized they would have to reassess their strategy and brace themselves for the challenges ahead.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="3950" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
