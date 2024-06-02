@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T16:13:40.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="z4bf7HwICmHQgnTMGmXU" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T16:16:44.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="b0tX1EDP291zhXFoHqfy" version="24.4.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2045" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2914" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -190,7 +190,7 @@
         </mxCell>
         <mxCell id="ghF-6BT86m63EPEGOQ4o-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;if dc is 10 higher&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ghF-6BT86m63EPEGOQ4o-1">
           <mxGeometry x="-0.5783" y="-1" relative="1" as="geometry">
-            <mxPoint x="24" y="-1" as="offset" />
+            <mxPoint x="29" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ghF-6BT86m63EPEGOQ4o-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vWk4RYzjq7Nbljxg8Uhb-8" target="ghF-6BT86m63EPEGOQ4o-5">
@@ -206,11 +206,11 @@
         <mxCell id="vWk4RYzjq7Nbljxg8Uhb-8" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;PERCEPTION&lt;br&gt;CHECK&lt;/b&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-35" y="2450" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ghF-6BT86m63EPEGOQ4o-5" value="&lt;span&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-9dbe816c-7fff-2175-aaa6-e446ceecff5d&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;You’re going to make a Perception check to see if you can feel what Ms. Mia have been . &quot;Perception&quot; is listed on your character sheet under “Skills.”&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-360" y="2475" width="240" height="60" as="geometry" />
+        <mxCell id="ghF-6BT86m63EPEGOQ4o-5" value="&lt;span&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-9dbe816c-7fff-2175-aaa6-e446ceecff5d&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;As they tread through the dense underbrush of the thorny forest, an unexpected noise pierces the silence, catching their attention. It&#39;s not a sound they recognize, but it resonates with a hint of mystery, stirring their curiosity. The rustle of leaves and the crackle of branches beneath unseen movements add an eerie ambiance to the atmosphere, heightening their senses. With each step forward, the enigmatic source of the noise beckons them deeper into the heart of the thorny forest, where secrets lie waiting to be unraveled.&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-410" y="2432.5" width="240" height="145" as="geometry" />
         </mxCell>
         <mxCell id="ghF-6BT86m63EPEGOQ4o-6" value="&lt;span&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-9dbe816c-7fff-2175-aaa6-e446ceecff5d&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;While walking Vlad have been accidentally crashed to a Alpha Cooper who’s running faster, The dog looks at him angrily and keeps barking at him not until Esmeralda shout like an irritated woman. &lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="174" y="2475" width="240" height="60" as="geometry" />
+          <mxGeometry x="200" y="2475" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
