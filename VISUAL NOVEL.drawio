@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T16:10:13.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="9fP5RfRyaw_eO7D27-Ok" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T16:11:01.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="a-QJk3YRqhySkzCwAfDf" version="24.4.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1835" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1233" dy="183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -193,7 +193,7 @@
             <mxPoint x="17" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ghF-6BT86m63EPEGOQ4o-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vWk4RYzjq7Nbljxg8Uhb-8">
+        <mxCell id="ghF-6BT86m63EPEGOQ4o-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vWk4RYzjq7Nbljxg8Uhb-8" target="ghF-6BT86m63EPEGOQ4o-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-110" y="2505" as="targetPoint" />
           </mxGeometry>
@@ -205,6 +205,9 @@
         </mxCell>
         <mxCell id="vWk4RYzjq7Nbljxg8Uhb-8" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;PERCEPTION&lt;br&gt;CHECK&lt;/b&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-35" y="2450" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ghF-6BT86m63EPEGOQ4o-5" value="&lt;span&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-9dbe816c-7fff-2175-aaa6-e446ceecff5d&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;You’re going to make a Perception check to see if you can feel what Ms. Mia have been . &quot;Perception&quot; is listed on your character sheet under “Skills.”&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-360" y="2475" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
