@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T02:32:35.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="H7952yiLziosbJFGIXnX" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T02:46:44.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="KOyKrrqL2BNeot914bXn" version="24.4.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1558" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2365" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -441,8 +441,24 @@
         <mxCell id="kneAseGpNHwroSivyvH5-7" value="&lt;span&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;In the ensuing chaos, the players tried to eliminate Gar to extend their heist plan. However, their attempt was met with fierce resistance. Gar, fueled by adrenaline and desperation, fought back with a ferocity they hadn&#39;t anticipated. Shots were exchanged in a rapid and chaotic flurry, but the players&#39; coordination faltered.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-270" y="3840" width="240" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="kneAseGpNHwroSivyvH5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kneAseGpNHwroSivyvH5-8" target="uCVlb8cVJ9TNwtC1Tqcg-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="4090" />
+              <mxPoint y="4090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kneAseGpNHwroSivyvH5-8" value="&lt;span&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Moving swiftly and decisively, they flanked Gar from both sides, using the chaos to their advantage. Their coordinated efforts paid off as they managed to disarm Gar, bringing her to the ground and securing her weapon. With Gar neutralized, the immediate threat was eliminated, and their heist plan was back on track. The players shared a moment of triumph, knowing they had successfully overcome a major hurdle. With Gar out of the picture, they could proceed with their mission, their path now clear and their confidence bolstered for the challenges ahead.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="3840" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="kneAseGpNHwroSivyvH5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kneAseGpNHwroSivyvH5-16" target="uCVlb8cVJ9TNwtC1Tqcg-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-150" y="4090" />
+              <mxPoint y="4090" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kneAseGpNHwroSivyvH5-16" value="&lt;span&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Ultimately, Gar managed to escape, leaving the players with a sense of bitter defeat. The shop was in disarray, the heist plan in ruins, and their chance for a smooth getaway slipping through their fingers. They knew that without eliminating Gar, their mission had become significantly more complicated and dangerous. As they regrouped, they realized they would have to reassess their strategy and brace themselves for the challenges ahead.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-270" y="3950" width="240" height="120" as="geometry" />
